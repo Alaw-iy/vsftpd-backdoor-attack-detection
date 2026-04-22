@@ -1,5 +1,7 @@
 # vsftpd Backdoor Attack Detection
 
+Simulei um ataque real explorando um backdoor crítico e detectei o comportamento em nível de rede.
+
 ## Visão geral
 
 Este projeto demonstra a exploração de uma vulnerabilidade real no serviço FTP vsFTPd 2.3.4 e a detecção do ataque através da análise de tráfego de rede.
