@@ -181,6 +181,15 @@ Dúvidas e aprendizados
 
 ---
 
+## Key Skills Demonstrated
+• Network traffic analysis
+• Vulnerability exploitation
+• Manual exploitation troubleshooting
+• Incident investigation
+• Understanding of backdoor behavior
+
+---
+
 ## Conclusão
 
 A vulnerabilidade permite execução remota de código e representa risco crítico.
